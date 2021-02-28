@@ -1,1 +1,1 @@
-# icpc_quantum_computing_challenge_2021
+# ICPC Quantum Computing Challenge 2021 powered by IBM Quantum
